@@ -1,0 +1,41 @@
+
+
+label{
+  color: linen;
+
+}
+
+.container{
+  margin-top: 50px;
+
+
+}
+
+.studentInformation{
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 10px;
+  border: solid gray 3px;
+  background: #31708f;
+
+}
+
+.resultInformation{
+  margin: 0 auto;
+  width: 40%;
+  margin-top: 1px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: solid gray 3px;
+  background:gray;
+
+}
+
+th{
+  color:yellowgreen;
+}
+
+td{
+  color:white;
+}
